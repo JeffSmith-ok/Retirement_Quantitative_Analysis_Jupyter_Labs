@@ -14,8 +14,7 @@ Fourthly, I will analyze the risk, by using the standard deviation `std` functio
 
 Fifthly, I will analyze the risk-return profile through the use of the Sharpe Ratio by finding the mean annualized average return data and dividing it by the annualized standard deviation.
 
-Finally, I will diversify the portfolio, by recommending two portfolios that I consider to be good investment opportunities. I will evaluate their betas, and dividing the covariance of the portfolio by the variance of the S&P 500.
-Then, I will decide in which portfolio to invest.
+Finally, I will diversify the portfolio, by recommending two portfolios that I consider to be good investment opportunities. I will evaluate their betas, and dividing the covariance of the portfolio by the variance of the S&P 500. Then, I will decide in which portfolio to invest.
 
 ## Technologies
 
