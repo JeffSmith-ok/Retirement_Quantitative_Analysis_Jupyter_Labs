@@ -42,9 +42,9 @@ In the terminal type 'Jupyter Lab'
 
 The following images show the notebook read in Juypter Lab and in Github under crypto_arbitrage.ipynb.
 
-## ![Screenshot of Jupyter_Lab with notebook open](images/Jupyter_Lab.jpg)
+## ![Screenshot of Jupyter_Lab with notebook open](C:\Users\jmstr\onedrive\desktop\Fintech_Workspace\Class_Activities\Module_4\Module_4_Challenge\Images\Jupyter_Lab.jpg)
 
-## ![Screenshot of Github with notebook open](images/Github.jpg)
+## ![Screenshot of Github with notebook open](C:\Users\jmstr\onedrive\desktop\Fintech_Workspace\Class_Activities\Module_4\Module_4_Challenge\Images\Github.jpg)
 
 ---
 
