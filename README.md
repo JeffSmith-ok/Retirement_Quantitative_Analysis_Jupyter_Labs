@@ -44,7 +44,7 @@ The following images show the notebook read in Juypter Lab and in Github under r
 
 ## ![Screenshot of Jupyter_Lab with notebook open](images/Jupyter_Lab.jpg) </br>
 
-## ![Screenshot of Github with notebook open](images/images/Github.jpg)
+## ![Screenshot of Github with notebook open](images/Github.jpg)
 
 ---
 
