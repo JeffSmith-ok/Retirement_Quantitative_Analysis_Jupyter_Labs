@@ -32,7 +32,7 @@ Git clone the repo and run it, pursuant to the following clone address
 
 git clone https://github.com/JeffSmith-ok/Module_4_Challenge
 
-cd Module_3_challenge
+cd Module_4_challenge
 
 In the terminal type 'Jupyter Lab'
 
