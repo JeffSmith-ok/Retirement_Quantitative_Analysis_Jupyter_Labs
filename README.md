@@ -24,7 +24,7 @@ This was developed with Anaconda, which includes Pandas, Matplotlib and Jupyter_
 
 ## Installation Guide
 
-To install the programs to run the program, you have to do the following or you can open 'crypto_arbitrage.ipynb' in github and read the file there.
+To install the programs to run the program, you have to do the following or you can open 'risk_return_analysis.ipynb' in github and read the file there.
 
 Install Anaconda and Python. </br>
 
@@ -40,11 +40,11 @@ In the terminal type 'Jupyter Lab'
 
 ## Usage
 
-The following images show the notebook read in Juypter Lab and in Github under crypto_arbitrage.ipynb.
+The following images show the notebook read in Juypter Lab and in Github under risk_return_analysis.ipynb.
 
-## ![Screenshot of Jupyter_Lab with notebook open](\Images\Jupyter_Lab.jpeg)
+## ![Screenshot of Jupyter_Lab with notebook open](images\Jupyter_Lab.jpeg)
 
-## ![Screenshot of Github with notebook open](Images\Github.jpeg)
+## ![Screenshot of Github with notebook open](images\Github.jpeg)
 
 ---
 
