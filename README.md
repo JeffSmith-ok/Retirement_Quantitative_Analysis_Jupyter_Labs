@@ -42,9 +42,9 @@ In the terminal type 'Jupyter Lab'
 
 The following images show the notebook read in Juypter Lab and in Github under risk_return_analysis.ipynb.
 
-## ![Screenshot of Jupyter_Lab with notebook open](images\jupyterlab.jpg)
+## ![Screenshot of Jupyter_Lab with notebook open](images\Github.jpeg)
 
-## ![Screenshot of Github with notebook open](images\github.jpg)
+## ![Screenshot of Github with notebook open](images\Jupyter_Lab.jpg)
 
 ---
 
