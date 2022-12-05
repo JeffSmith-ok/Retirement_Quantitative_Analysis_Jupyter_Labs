@@ -1,8 +1,6 @@
 # Retirement Stock Fund Quantitative Analysis - Risk and Return
 
-In this Challenge, I'll assume the role of a quantitative analyst for a FinTech investing platform. This platform aims to offer clients a one-stop online investment solution for their retirement portfolios that’s both inexpensive and high quality. (Think about [Wealthfront](https://www.wealthfront.com/) or [Betterment](https://www.betterment.com/)). To keep the costs low, the firm uses algorithms to build each client's portfolio. The algorithms choose from various investment styles and options.
-
-I've been tasked with evaluating four new investment options for inclusion in the client portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as **whales**, because of the large amount of money that they manage). I’ll need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
+I am analyzing new investment options for inclusion in the clienta' portfolios. Legendary fund and hedge-fund managers run all four selections. (People sometimes refer to these managers as **whales**, because of the large amount of money that they manage). I will need to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
 
 Firstly, I will import the data, and create the daily returns dataframe, using the `pct_change` together with the `dropna` functions.
 
@@ -56,7 +54,7 @@ My contact information is:
 
 Name: Jeffrey M. Smith </br>
 Linkedin: https://www.linkedin.com/in/jeffsmith77/ </br>
-Personal email: jmstranslate@gmail.com </br>
+Personal email: jsmith@lexsmith.finance </br>
 Phone: 332 238 5209
 
 ---
